@@ -1,0 +1,6 @@
+1. git clone url_from_git_hub
+2. git status
+3. git add file_name or git add -A
+4. git commit
+5. git push
+6. git pull
